@@ -5,3 +5,5 @@ practice now!
 change
 
 git rm
+
+git status
